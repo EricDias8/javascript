@@ -1,3 +1,4 @@
+/* Eric Felipeli César Dias Pereira */
 function calculadora()
 {
     const operacao = Number(prompt("escolha uma operação: \n 1- Soma \n 2- subtração \n 3- multiplicaçao \n 4- divisão real \n 5- divisão inteira \n 6-potenciação "));
